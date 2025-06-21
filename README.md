@@ -1,6 +1,6 @@
 # quantitative_proteomics_comparison
 
-Comparison of DIA to spectral counting to TMT quantitative techniques using animal lens studies.
+Comparison of DIA to spectral counting and TMT quantitative techniques using animal lens studies.
 
 ### June 20, 2025
 
