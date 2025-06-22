@@ -8,34 +8,7 @@ Comparison of DIA to spectral counting and TMT quantitative techniques using ani
 
 ---
 
-### File Descriptions
-
-- **LICENSE** - MIT license terms
-- **quant_DIA.txt** - table read in by notebooks for Thermo Exploris 480 DIA data
-- **quant_PASEF.txt** - table read in by notebooks for Bruker timsTOF PASEF DIA data
-- **quant_technique_comparison.ppt** - Powerpoint presentation of comparisons with notes
-- **README.md** - this markdown file
-- **Schey_results_edgeR-exact_DIA_noTMM.txt** - results file from edgeR testing of Exploris 480 DIA data where TMM-normalization was not used
-- **Schey_results_edgeR-exact_DIA.txt** - results file from edgeR testing of Exploris 480 TMM-normalizationed DIA data
-- **Schey_results_edgeR-exact_PASEF_noTMM.txt** - results file from edgeR testing of Bruker PASEF DIA data where TMM-normalization was not used
-- **Schey_results_edgeR-exact_PASEF.txt** - results file from edgeR testing of Bruker PASEF TMM-normalizationed DIA data
-- **Schey-DIA_edgeR-exact_noTMM.html** - Notebook where edgeR testing of Exploris 480 DIA data without TMM-normalization was done (as HTML file)
-- **Schey-DIA_edgeR-exact_noTMM.ipynb** - Notebook where edgeR testing of Exploris 480 DIA data without TMM-normalization was done
-- **Schey-DIA_edgeR-exact.html** - Notebook where edgeR testing of Exploris 480 DIA data with TMM-normalization was done (as HTML file)
-- **Schey-DIA_edgeR-exact.ipynb** - Notebook where edgeR testing of Exploris 480 DIA data with TMM-normalization was done
-- **Schey-DIA_QC_checks.html** - Notebook with quality control metrics for Exploris 480 DIA data (as HTML file)
-- **Schey-DIA_QC_checks.ipynb** - Notebook with quality control metrics for Exploris 480 DIA data
-- **Schey-DIA_wide_table_data.xlsx** - Excel spreadsheet with nicely formatted DIA data (both platforms) and statistical testing results
-- **Schey-PASEF_edgeR-exact_noTMM.html** - Notebook where edgeR testing of Bruker PASEF DIA data without TMM-normalization was done (as HTML file)
-- **Schey-PASEF_edgeR-exact_noTMM.ipynb** - Notebook where edgeR testing of Bruker PASEF DIA data without TMM-normalization was done
-- **Schey-PASEF_edgeR-exact.html** - Notebook where edgeR testing of Bruker PASEF DIA data with TMM-normalization was done (as HTML file)
-- **Schey-PASEF_edgeR-exact.ipynb** - Notebook where edgeR testing of Bruker PASEF DIA data with TMM-normalization was done
-- **Schey-PASEF_QC_checks.html** - Notebook with quality control metrics for Bruker PASEF DIA data (as HTML file)
-- **Schey-PASEF_QC_checks.ipynb** - Notebook with quality control metrics for Bruker PASEF DIA data
-
----
-
-## Comparison presentation
+## Comparison presentation:
 
 ---
 
@@ -239,4 +212,31 @@ It is hard to estimate how many false positive peptide identifications and integ
 
 ---
 
-Phil Wilmarth <br> June 20, 2025 <br> _No artificial intelligence was used to harm any animal data..._
+### File Descriptions
+
+- **LICENSE** - MIT license terms
+- **quant_DIA.txt** - table read in by notebooks for Thermo Exploris 480 DIA data
+- **quant_PASEF.txt** - table read in by notebooks for Bruker timsTOF PASEF DIA data
+- **quant_technique_comparison.ppt** - Powerpoint presentation of comparisons with notes
+- **README.md** - this markdown file
+- **Schey_results_edgeR-exact_DIA_noTMM.txt** - results file from edgeR testing of Exploris 480 DIA data where TMM-normalization was not used
+- **Schey_results_edgeR-exact_DIA.txt** - results file from edgeR testing of Exploris 480 TMM-normalizationed DIA data
+- **Schey_results_edgeR-exact_PASEF_noTMM.txt** - results file from edgeR testing of Bruker PASEF DIA data where TMM-normalization was not used
+- **Schey_results_edgeR-exact_PASEF.txt** - results file from edgeR testing of Bruker PASEF TMM-normalizationed DIA data
+- **Schey-DIA_edgeR-exact_noTMM.html** - Notebook where edgeR testing of Exploris 480 DIA data without TMM-normalization was done (as HTML file)
+- **Schey-DIA_edgeR-exact_noTMM.ipynb** - Notebook where edgeR testing of Exploris 480 DIA data without TMM-normalization was done
+- **Schey-DIA_edgeR-exact.html** - Notebook where edgeR testing of Exploris 480 DIA data with TMM-normalization was done (as HTML file)
+- **Schey-DIA_edgeR-exact.ipynb** - Notebook where edgeR testing of Exploris 480 DIA data with TMM-normalization was done
+- **Schey-DIA_QC_checks.html** - Notebook with quality control metrics for Exploris 480 DIA data (as HTML file)
+- **Schey-DIA_QC_checks.ipynb** - Notebook with quality control metrics for Exploris 480 DIA data
+- **Schey-DIA_wide_table_data.xlsx** - Excel spreadsheet with nicely formatted DIA data (both platforms) and statistical testing results
+- **Schey-PASEF_edgeR-exact_noTMM.html** - Notebook where edgeR testing of Bruker PASEF DIA data without TMM-normalization was done (as HTML file)
+- **Schey-PASEF_edgeR-exact_noTMM.ipynb** - Notebook where edgeR testing of Bruker PASEF DIA data without TMM-normalization was done
+- **Schey-PASEF_edgeR-exact.html** - Notebook where edgeR testing of Bruker PASEF DIA data with TMM-normalization was done (as HTML file)
+- **Schey-PASEF_edgeR-exact.ipynb** - Notebook where edgeR testing of Bruker PASEF DIA data with TMM-normalization was done
+- **Schey-PASEF_QC_checks.html** - Notebook with quality control metrics for Bruker PASEF DIA data (as HTML file)
+- **Schey-PASEF_QC_checks.ipynb** - Notebook with quality control metrics for Bruker PASEF DIA data
+
+---
+
+Phil Wilmarth <br> June 22, 2025 <br> _No artificial intelligence was used to harm any animal data..._
